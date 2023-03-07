@@ -5,7 +5,7 @@
  services that offer a **free tier** to help developers evaluate and
  build something that users can later use and get support for.
 
- The focus of this list is quite broad but we try to keep things
+ The focus of this list is quite broad but we try to keep things)
  limited to that which infrastructure developers, like DevOps Practitioners,
  would find useful.
 

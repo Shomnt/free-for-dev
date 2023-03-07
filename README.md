@@ -14,7 +14,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
 
 # Table of Contents
 
-   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)
+   * [Major Cloud Providers' Always-Free Limits](#major-cloud-providers)))
    * [Cloud management solutions](#cloud-management-solutions)
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
