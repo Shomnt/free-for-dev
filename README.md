@@ -19,7 +19,11 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
    * [Analytics, Events and Statistics](#analytics-events-and-statistics)
    * [APIs, Data and ML](#apis-data-and-ml)
    * [Artifact Repos](#artifact-repos)
+<<<<<<< HEAD
    * [BaaS](#baas))))))
+=======
+   * [BaaS](#baas))))
+>>>>>>> 8f5f5b67850e3d02c12c2be4c75c005f6f01ab08
    * [Low-code Platform](#low-code-platform)
    * [CDN and Protection](#cdn-and-protection)
    * [CI and CD](#ci-and-cd)
